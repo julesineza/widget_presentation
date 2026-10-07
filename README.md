@@ -27,4 +27,6 @@ Tap **Sign up** on the login screen to open the registration stepper.
 
 ## Final UI screenshot
 
+<img width="50%" height="50%" alt="Screenshot iPhone 17 Pro 07-10-2026 at 15 09 09" src="https://github.com/user-attachments/assets/3f3b1711-3e27-4628-b523-d8e722bfcdd1" />
+<img width="50%" height="50%" alt="Screenshot iPhone 17 Pro 07-10-2026 at 15 01 31" src="https://github.com/user-attachments/assets/91109e56-44ef-4c9b-889d-c61a3db1090c" />
 
